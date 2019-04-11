@@ -1,7 +1,7 @@
-Public class Hello{
-	Public static void main(string[] args) {
+class Hello{
+	public static void main(String args[]) {
 		//This Will print HelloWorld to the console
-		System.Out.println("Hello, World!");
+		System.out.println("Hello, World!");
 		
 	}
 }
